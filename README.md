@@ -29,6 +29,20 @@ Gratuito · Sin anuncios · Sin compras · Sin muros de pago
 | 📚 **Biblioteca** | Playlists, favoritos, historial y exploración por artista/álbum/género |
 | 🎨 **Personalización** | Modo oscuro/claro y colores de acento |
 
+## 📱 Capturas
+
+<div align="center">
+  <img src="docs/screenshots/promo1.jpeg" width="260" alt="Captura 1"/>
+  <img src="docs/screenshots/promo2.jpeg" width="260" alt="Captura 2"/>
+  <img src="docs/screenshots/promo3.jpeg" width="260" alt="Captura 3"/>
+  <br/>
+  <img src="docs/screenshots/promo4.jpeg" width="260" alt="Captura 4"/>
+  <img src="docs/screenshots/promo5.jpeg" width="260" alt="Captura 5"/>
+  <img src="docs/screenshots/promo6.jpeg" width="260" alt="Captura 6"/>
+  <br/>
+  <img src="docs/screenshots/promo7.jpeg" width="260" alt="Captura 7"/>
+</div>
+
 ## 📥 Descargar
 
 <div align="center">
